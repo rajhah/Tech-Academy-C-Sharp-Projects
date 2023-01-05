@@ -1,0 +1,8 @@
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\insuranceApproval\obj\Debug\insuranceApproval.csproj.AssemblyReference.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\insuranceApproval\obj\Debug\insuranceApproval.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\insuranceApproval\obj\Debug\insuranceApproval.csproj.CoreCompileInputs.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\insuranceApproval\bin\Debug\insuranceApproval.exe.config
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\insuranceApproval\bin\Debug\insuranceApproval.exe
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\insuranceApproval\bin\Debug\insuranceApproval.pdb
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\insuranceApproval\obj\Debug\insuranceApproval.exe
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\insuranceApproval\obj\Debug\insuranceApproval.pdb
