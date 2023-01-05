@@ -1,0 +1,8 @@
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\doWhileDemo\bin\Debug\doWhileDemo.exe.config
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\doWhileDemo\bin\Debug\doWhileDemo.exe
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\doWhileDemo\bin\Debug\doWhileDemo.pdb
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\doWhileDemo\obj\Debug\doWhileDemo.csproj.AssemblyReference.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\doWhileDemo\obj\Debug\doWhileDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\doWhileDemo\obj\Debug\doWhileDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\doWhileDemo\obj\Debug\doWhileDemo.exe
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\doWhileDemo\obj\Debug\doWhileDemo.pdb
