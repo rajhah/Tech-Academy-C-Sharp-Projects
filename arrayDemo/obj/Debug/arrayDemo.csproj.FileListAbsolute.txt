@@ -1,0 +1,8 @@
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\arrayDemo\bin\Debug\arrayDemo.exe.config
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\arrayDemo\bin\Debug\arrayDemo.exe
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\arrayDemo\bin\Debug\arrayDemo.pdb
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\arrayDemo\obj\Debug\arrayDemo.csproj.AssemblyReference.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\arrayDemo\obj\Debug\arrayDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\arrayDemo\obj\Debug\arrayDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\arrayDemo\obj\Debug\arrayDemo.exe
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\arrayDemo\obj\Debug\arrayDemo.pdb
