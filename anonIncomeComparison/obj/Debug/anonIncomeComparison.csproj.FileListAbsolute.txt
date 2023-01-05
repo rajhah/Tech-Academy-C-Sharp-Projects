@@ -1,0 +1,8 @@
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\anonIncomeComparison\bin\Debug\anonIncomeComparison.exe.config
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\anonIncomeComparison\bin\Debug\anonIncomeComparison.exe
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\anonIncomeComparison\bin\Debug\anonIncomeComparison.pdb
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\anonIncomeComparison\obj\Debug\anonIncomeComparison.csproj.AssemblyReference.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\anonIncomeComparison\obj\Debug\anonIncomeComparison.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\anonIncomeComparison\obj\Debug\anonIncomeComparison.csproj.CoreCompileInputs.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\anonIncomeComparison\obj\Debug\anonIncomeComparison.exe
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\anonIncomeComparison\obj\Debug\anonIncomeComparison.pdb
