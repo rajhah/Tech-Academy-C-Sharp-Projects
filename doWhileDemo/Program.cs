@@ -19,6 +19,7 @@ namespace doWhileDemo
                 key = Console.KeyAvailable;
             }
             Console.WriteLine("You have escaped the madness of the loop.");
+            Console.ReadKey(true);
 
             //loop until the user enters the correct answer to escape the program
             do
