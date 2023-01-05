@@ -1,0 +1,8 @@
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\packageExpress\bin\Debug\packageExpress.exe.config
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\packageExpress\bin\Debug\packageExpress.exe
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\packageExpress\bin\Debug\packageExpress.pdb
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\packageExpress\obj\Debug\packageExpress.csproj.AssemblyReference.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\packageExpress\obj\Debug\packageExpress.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\packageExpress\obj\Debug\packageExpress.csproj.CoreCompileInputs.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\packageExpress\obj\Debug\packageExpress.exe
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\packageExpress\obj\Debug\packageExpress.pdb
