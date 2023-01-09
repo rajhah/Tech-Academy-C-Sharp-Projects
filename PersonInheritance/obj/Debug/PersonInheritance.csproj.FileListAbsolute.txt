@@ -1,0 +1,8 @@
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\PersonInheritance\bin\Debug\PersonInheritance.exe.config
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\PersonInheritance\bin\Debug\PersonInheritance.exe
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\PersonInheritance\bin\Debug\PersonInheritance.pdb
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\PersonInheritance\obj\Debug\PersonInheritance.csproj.AssemblyReference.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\PersonInheritance\obj\Debug\PersonInheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\PersonInheritance\obj\Debug\PersonInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\PersonInheritance\obj\Debug\PersonInheritance.exe
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\PersonInheritance\obj\Debug\PersonInheritance.pdb
