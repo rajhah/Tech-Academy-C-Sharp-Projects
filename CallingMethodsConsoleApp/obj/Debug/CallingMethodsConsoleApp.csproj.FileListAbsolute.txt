@@ -1,0 +1,8 @@
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\CallingMethodsConsoleApp\bin\Debug\CallingMethodsConsoleApp.exe.config
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\CallingMethodsConsoleApp\bin\Debug\CallingMethodsConsoleApp.exe
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\CallingMethodsConsoleApp\bin\Debug\CallingMethodsConsoleApp.pdb
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\CallingMethodsConsoleApp\obj\Debug\CallingMethodsConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\CallingMethodsConsoleApp\obj\Debug\CallingMethodsConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\CallingMethodsConsoleApp\obj\Debug\CallingMethodsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\CallingMethodsConsoleApp\obj\Debug\CallingMethodsConsoleApp.exe
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\CallingMethodsConsoleApp\obj\Debug\CallingMethodsConsoleApp.pdb
