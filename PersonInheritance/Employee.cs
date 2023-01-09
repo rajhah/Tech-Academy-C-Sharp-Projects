@@ -24,20 +24,12 @@ namespace PersonInheritance
 
         public static bool operator ==(Employee a, Employee b)
         {
-            if (a.Id==b.Id)
-            {
-                return true;
-            }
-            return false;
+            return (a.Id == b.Id);
         }
 
         public static bool operator !=(Employee a, Employee b)
         {
-            if (a.Id != b.Id)
-            {
-                return true;
-            }
-            return false;
+            return !(a.Id == b.Id);
         }
         
     }
