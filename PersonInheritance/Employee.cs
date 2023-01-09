@@ -21,5 +21,24 @@ namespace PersonInheritance
         {
             Job = "None";
         }
+
+        public static bool operator ==(Employee a, Employee b)
+        {
+            if (a.Id==b.Id)
+            {
+                return true;
+            }
+            return false;
+        }
+
+        public static bool operator !=(Employee a, Employee b)
+        {
+            if (a.Id != b.Id)
+            {
+                return true;
+            }
+            return false;
+        }
+        
     }
 }
