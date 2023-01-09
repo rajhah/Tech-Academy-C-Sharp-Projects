@@ -49,6 +49,22 @@ namespace MethodOverloading
             }
 
             Console.ReadLine();
+
+            /*
+             *  METHOD CLASS SUBMISSION ASSIGNMENT
+             */
+
+            WriteNumbers write = new WriteNumbers();
+
+            Console.WriteLine("Enter the first integer to write:");
+            int writeNum1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter the second integer to write:");
+            int writeNum2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Writing some numbers from the WriteNumbers class: ");
+            write.Write(writeNum1, writeNum2);
+
+            Console.ReadLine();
+
         }
     }
 }
