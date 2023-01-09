@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace PersonInheritance
 {
-    internal class Person
+    internal abstract class Person
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
-        public void sayName()
+        public virtual void SayName()
         {
             Console.WriteLine("Name: " + FirstName + " " + LastName);
         }
