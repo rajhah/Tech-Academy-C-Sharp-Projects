@@ -1,0 +1,8 @@
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\StringsAndIntegers\obj\Debug\StringsAndIntegers.csproj.AssemblyReference.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\StringsAndIntegers\obj\Debug\StringsAndIntegers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\StringsAndIntegers\obj\Debug\StringsAndIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\StringsAndIntegers\bin\Debug\StringsAndIntegers.exe.config
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\StringsAndIntegers\bin\Debug\StringsAndIntegers.exe
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\StringsAndIntegers\bin\Debug\StringsAndIntegers.pdb
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\StringsAndIntegers\obj\Debug\StringsAndIntegers.exe
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\StringsAndIntegers\obj\Debug\StringsAndIntegers.pdb

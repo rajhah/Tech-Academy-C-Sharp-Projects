@@ -143,7 +143,7 @@ namespace ConsoleApp2
             Console.ReadLine();
 
             /*
-            CONSOLE APP ASSIGNMENT PART 5
+            CONSOLE APP ASSIGNMENT PART 6
             */
 
             // Create a list of strings that has at least two identical strings in the list.
