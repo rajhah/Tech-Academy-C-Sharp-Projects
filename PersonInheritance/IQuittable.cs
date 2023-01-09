@@ -8,7 +8,7 @@ namespace PersonInheritance
 {
     internal interface IQuittable
     {
-        string Job { get; set; }
+        //string Job { get; set; }
 
         void Quit();
     }
