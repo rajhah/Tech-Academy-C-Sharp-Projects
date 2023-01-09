@@ -1,0 +1,8 @@
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\TwentyOne\obj\Debug\TwentyOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\TwentyOne\obj\Debug\TwentyOne.pdb
