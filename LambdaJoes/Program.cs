@@ -47,11 +47,9 @@ namespace LambdaJoes
                 }
             }
 
-            //Perform the same action again, but this time with a lambda expression.
+            // Perform the same action again, but this time with a lambda expression.
             joes.Clear();
             joes.AddRange(employees.Where(x => x.FirstName == "Joe"));
-            
-
 
             foreach (Employee e in joes)
             {
@@ -60,6 +58,16 @@ namespace LambdaJoes
 
             Console.ReadLine();
 
+            // Using a lambda expression, make a list of all employees with an Id number greater than 5.
+            List<Employee> greaterThanFive = new List<Employee>();
+            greaterThanFive.AddRange(employees.Where(x => x.Id > 5));
+
+            foreach (Employee e in greaterThanFive)
+            {
+                Console.WriteLine(e.FirstName + " " + e.LastName);
+            }
+
+            Console.ReadLine();
         }
     }
 }
