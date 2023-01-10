@@ -14,15 +14,15 @@ namespace TwentyOne
             // Cards is the List<Card> from below, the only property in this class
             Cards = new List<Card>();
 
-            List<string> suits = new List<string> { "Hearts", "Diamonds", "Clubs", "Spades" };
-            List<string> faces = new List<string> { "A", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K" };
-            foreach (string suit in suits){
-                foreach (string face in faces)
+            for(int i = 0; i < 13; i++)
+            {
+                for (int j = 0; j < 4; j++)
                 {
-                    Card card = new Card { Suit = suit, Face = face };
+                    Card card = new Card { Face = (Face)i, Suit = (Suit)j };
                     Cards.Add(card);
                 }
             }
+
         }
         public List<Card> Cards { get; set; }
 

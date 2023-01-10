@@ -10,11 +10,29 @@ namespace TwentyOne
     {
         public Card()
         {
-            Suit = "Spades";
-            Face = "Q";
+            Suit = Suit.Spades;
+            Face = Face.Q;
         }
 
-        public string Suit { get; set; }
-        public string Face { get; set; }
+        public Suit Suit { get; set; }
+        public Face Face { get; set; }
+    }
+
+    public enum Suit
+    {
+        Clubs,
+        Diamonds,
+        Hearts,
+        Spades
+    }
+
+    public enum Face
+    {
+        A=0,
+        J=11,
+        Q=12,
+        K=13
+
+        
     }
 }

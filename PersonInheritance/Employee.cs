@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace PersonInheritance
 {
-    internal class Employee: Person, IQuittable
+    internal class Employee : Person, IQuittable
     {
         public int Id { get; set; }
         public string Job { get; set; }
-
+        
         public override void SayName()
         {
             Console.WriteLine("Employee Name: ");
