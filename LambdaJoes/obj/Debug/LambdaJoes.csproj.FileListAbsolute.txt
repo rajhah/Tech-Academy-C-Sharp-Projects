@@ -1,0 +1,8 @@
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\LambdaJoes\bin\Debug\LambdaJoes.exe.config
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\LambdaJoes\bin\Debug\LambdaJoes.exe
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\LambdaJoes\bin\Debug\LambdaJoes.pdb
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\LambdaJoes\obj\Debug\LambdaJoes.csproj.AssemblyReference.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\LambdaJoes\obj\Debug\LambdaJoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\LambdaJoes\obj\Debug\LambdaJoes.csproj.CoreCompileInputs.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\LambdaJoes\obj\Debug\LambdaJoes.exe
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\LambdaJoes\obj\Debug\LambdaJoes.pdb
