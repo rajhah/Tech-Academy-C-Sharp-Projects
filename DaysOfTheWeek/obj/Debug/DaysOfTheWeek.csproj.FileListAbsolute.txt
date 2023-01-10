@@ -1,0 +1,8 @@
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.exe.config
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.exe
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.pdb
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.csproj.AssemblyReference.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.exe
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.pdb
