@@ -1,0 +1,8 @@
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\TimeAfterConsoleApp\bin\Debug\TimeAfterConsoleApp.exe.config
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\TimeAfterConsoleApp\bin\Debug\TimeAfterConsoleApp.exe
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\TimeAfterConsoleApp\bin\Debug\TimeAfterConsoleApp.pdb
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\TimeAfterConsoleApp\obj\Debug\TimeAfterConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\TimeAfterConsoleApp\obj\Debug\TimeAfterConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\TimeAfterConsoleApp\obj\Debug\TimeAfterConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\TimeAfterConsoleApp\obj\Debug\TimeAfterConsoleApp.exe
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\TimeAfterConsoleApp\obj\Debug\TimeAfterConsoleApp.pdb
