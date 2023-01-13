@@ -24,11 +24,21 @@ namespace TwentyOne
             Dealer.Deck = new Deck();
             Dealer.Deck.Shuffle(3);
             
-            Console.WriteLine("Place your bet!");
-
             foreach (Player player in Players)
             {
-                int bet = Convert.ToInt32(Console.ReadLine());
+                bool validAnswer = false;
+                int bet = 0;
+                while (!validAnswer)
+                {
+                    Console.WriteLine("{0}, place your bet!", player.Name);
+                    validAnswer = int.TryParse(Console.ReadLine(), out bet);
+                    if (!validAnswer) Console.WriteLine("Please enter a whole number.");
+                }
+                if (bet < 0)
+                {
+                    throw new FraudException("No cheating at our casino!");
+                }
+
                 bool successfullyBet = player.Bet(bet);
                 if (!successfullyBet)
                 {
