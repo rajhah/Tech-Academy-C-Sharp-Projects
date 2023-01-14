@@ -1,0 +1,13 @@
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\CodeFirstDB\bin\Debug\CodeFirstDB.exe.config
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\CodeFirstDB\bin\Debug\CodeFirstDB.exe
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\CodeFirstDB\bin\Debug\CodeFirstDB.pdb
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\CodeFirstDB\bin\Debug\EntityFramework.dll
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\CodeFirstDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\CodeFirstDB\bin\Debug\EntityFramework.xml
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\CodeFirstDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\CodeFirstDB\obj\Debug\CodeFirstDB.csproj.AssemblyReference.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\CodeFirstDB\obj\Debug\CodeFirstDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\CodeFirstDB\obj\Debug\CodeFirstDB.csproj.CoreCompileInputs.cache
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\CodeFirstDB\obj\Debug\CodeFirstDB.csproj.CopyComplete
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\CodeFirstDB\obj\Debug\CodeFirstDB.exe
+C:\Users\Sale\Documents\TA files\Tech-Academy-C-Sharp-Projects\CodeFirstDB\obj\Debug\CodeFirstDB.pdb
