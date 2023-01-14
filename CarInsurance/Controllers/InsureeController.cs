@@ -59,7 +59,7 @@ namespace CarInsurance.Controllers
             {
                 int age = Convert.ToInt32((DateTime.Now - insuree.DateOfBirth).TotalDays / 365);
                 Decimal quote = (50);
-                if (age < 18) quote += 100;
+                if (age <= 18) quote += 100;
                 if (age > 18 && age < 26) quote += 50;
                 if (age > 25) quote += 25;
                 if (insuree.CarYear < 2000 || insuree.CarYear > 2015) quote += 25;
